@@ -47,5 +47,3 @@ To run the Streamlit app, use the following command:
 
 ```bash
 streamlit run dashboard.py
-
-Translated with DeepL.com (free version)
